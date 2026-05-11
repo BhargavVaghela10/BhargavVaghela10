@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Bhargav Vaghela
-**Aspiring Full Stack Developer | AI/ML Enthusiast | Problem Solver**
+**Aspiring Data Scientist | AI/ML Enthusiast | Front-End Development Basics | Problem Solver**
 
 Email Me 👉 ✉️ **vaghelabhargav1010@gmail.com** For Collaboration/Project or Anything Else. 😊
 
